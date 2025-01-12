@@ -1,5 +1,5 @@
 # ggstFaceCards
-A Balatro face cards skin texture featuring Guilty Gear: Strive characters. 
+A Balatro face cards skin texture featuring Guilty Gear: Strive characters. Uses the DeckSkinsLite mod!
 
 ## How to Install
 
